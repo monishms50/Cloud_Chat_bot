@@ -1,4 +1,4 @@
-AWS Dining Concierge Chatbot
+**AWS Dining Concierge Chatbot**
 
 This project is an AI-powered dining recommendation system built on AWS.
 It uses services like Lambda, SQS, OpenSearch, DynamoDB, and SES to handle user requests, search restaurant data, and send personalized dining suggestions via email.
